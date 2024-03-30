@@ -1,4 +1,4 @@
-![](../cosmosolver.svg)
+![](https://github.com/cosmosolvers/.github/blob/main/cosmosolver.svg)
 
 # CosmoSolver
 
