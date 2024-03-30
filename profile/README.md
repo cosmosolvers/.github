@@ -1,6 +1,4 @@
-<center>
-  <img src='../cosmosolver.svg'>
-</center>
+![](../cosmosolver.svg)
 
 # CosmoSolver
 
