@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+<defs>
+    <g id="fig">
+        <path d="M5 25L5 5 20 20A5 5 1 1 1 10 28M14 14A5 5 1 1 1 27 9" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path d="M10 10L10 25" stroke-linecap="round"/>
+    </g>
+</defs>
+    <rect fill="black" width="40" height="40" rx="3" ry="3"/>
+    <use href="#fig" x="18.5" y="4" stroke="aliceblue" transform="scale(.8)"/>
+    <use href="#fig" x="-31" y="-46" stroke="dodgerblue" transform="rotate(180) scale(.8)"/>
+</svg>
